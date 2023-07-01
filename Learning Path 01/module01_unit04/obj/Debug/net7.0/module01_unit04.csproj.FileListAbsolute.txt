@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Desktop\Arquivos\Git\mslearn_exercises\Learning Path 01\module01_unit04\bin\Debug\net7.0\module01_unit04.exe
+C:\Users\Gustavo\Desktop\Arquivos\Git\mslearn_exercises\Learning Path 01\module01_unit04\bin\Debug\net7.0\module01_unit04.deps.json
+C:\Users\Gustavo\Desktop\Arquivos\Git\mslearn_exercises\Learning Path 01\module01_unit04\bin\Debug\net7.0\module01_unit04.runtimeconfig.json
+C:\Users\Gustavo\Desktop\Arquivos\Git\mslearn_exercises\Learning Path 01\module01_unit04\bin\Debug\net7.0\module01_unit04.dll
+C:\Users\Gustavo\Desktop\Arquivos\Git\mslearn_exercises\Learning Path 01\module01_unit04\bin\Debug\net7.0\module01_unit04.pdb
+C:\Users\Gustavo\Desktop\Arquivos\Git\mslearn_exercises\Learning Path 01\module01_unit04\obj\Debug\net7.0\module01_unit04.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\Arquivos\Git\mslearn_exercises\Learning Path 01\module01_unit04\obj\Debug\net7.0\module01_unit04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\Arquivos\Git\mslearn_exercises\Learning Path 01\module01_unit04\obj\Debug\net7.0\module01_unit04.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Arquivos\Git\mslearn_exercises\Learning Path 01\module01_unit04\obj\Debug\net7.0\module01_unit04.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Arquivos\Git\mslearn_exercises\Learning Path 01\module01_unit04\obj\Debug\net7.0\module01_unit04.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Arquivos\Git\mslearn_exercises\Learning Path 01\module01_unit04\obj\Debug\net7.0\module01_unit04.dll
+C:\Users\Gustavo\Desktop\Arquivos\Git\mslearn_exercises\Learning Path 01\module01_unit04\obj\Debug\net7.0\refint\module01_unit04.dll
+C:\Users\Gustavo\Desktop\Arquivos\Git\mslearn_exercises\Learning Path 01\module01_unit04\obj\Debug\net7.0\module01_unit04.pdb
+C:\Users\Gustavo\Desktop\Arquivos\Git\mslearn_exercises\Learning Path 01\module01_unit04\obj\Debug\net7.0\module01_unit04.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\Arquivos\Git\mslearn_exercises\Learning Path 01\module01_unit04\obj\Debug\net7.0\ref\module01_unit04.dll
